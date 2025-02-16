@@ -1,0 +1,14 @@
+---
+:id: 130616876
+:submitters:
+- :name: Srushti Junghare
+  :email: cs5210613@cse.iitd.ac.in
+- :name: Disha Shiraskar
+  :email: cs1210578@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-08-21 13:37:29.624297000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-08-21 06:37:29.624297000 Z
+:status: processed
+:score: 25.0
